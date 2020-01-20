@@ -2,6 +2,5 @@ Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 An ill-considered change
-adding a new line for practice
-yet add another line to practice HEAD~ option for commit
-i want to try sth esle
+trying the checkout by adding 
+
